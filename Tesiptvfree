@@ -796,9 +796,11 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/mgn.m3u8
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/antv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/GTV%20SD-FirstMedia-Chl-53.jpg" group-title="TV Nasional",GTV
-
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/gtv.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png",GTV
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="TV Nasional",Indosiar
 
