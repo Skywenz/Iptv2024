@@ -752,10 +752,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvriworld.m3u8
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/zhejiang.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="TV Lokal",Bali TV
-
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/balitv
-
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Berita%20Satu%20SD-FirstMedia-Chl-1.webp" group-title="TV Lokal",BTV
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
