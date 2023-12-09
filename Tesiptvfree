@@ -8,6 +8,12 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/babytv.m3u8
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonito.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="DaVinciAsia.de" tvg-logo="https://www.davinci.tv/wp-content/uploads/2023/02/Da_Vinci_Primary_Logo_RGB_Red_AW.png"  group-title="Anak",Da Vinci
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="Anak",CBeebies
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cbeebies.m3u8
