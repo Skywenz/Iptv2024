@@ -335,7 +335,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/animax.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="Hiburan",AniPlus
 
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/aniplus.m3u8
+http://210.210.155.35:80/uq2663/h/h114/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/AXN%20HD-FirstMedia-Chl-332.jpg" group-title="Hiburan",AXN
 
