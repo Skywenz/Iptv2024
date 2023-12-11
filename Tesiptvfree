@@ -281,6 +281,11 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="Film",EBC Movies
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ItNGE1z.png" group-title="Film",EBC Foreign Movies
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TvN%20Movies%20HD-FirstMedia-Chl-343.jpg" group-title="Film",TVN Movie
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvnmovies.m3u8
