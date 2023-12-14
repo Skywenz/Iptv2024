@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="Anak",Baby TV
-
-https://indo.fmmovie.tech/download.aspx?file=jbz89g8P7IDcqOg3VOMm3tb%2F3aLaxsxBqESed9phpoJls1zON%2BtFWGPToAobPXCE&expiry=Grmhy%2BQjpv%2B6TEga2JW%2F7g%3D%3D&mac=e4487605bef13b180192be5a46fdfce1614a93f44356b877456ff08eb8290c21
-
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/CartoonitoHD-FirstMedia-Chl-372.png" group-title="Anak",Cartoonito
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonito.m3u8
