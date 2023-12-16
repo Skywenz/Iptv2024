@@ -579,53 +579,6 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=697152&extension=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MUSIC", KARAOKE 5
 http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=697153&extension=ts&play_token=yK7Ppvy2j
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Citra%20Dangdut%20HD-FirstMedia-Chl-377.jpg" group-title="Musik",Citra Dangdut
-
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradangdut.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7Yq0Ygw/ikonser.jpg" group-title="Musik",I Konser
-
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/ikonser.m3u8
-
-#EXTINF:-1 group-title="Musik",Local Now Music
-
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/localnowmusic.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/10-MUSIC/mtv90s.jpg" group-title="Musik",MTV 90s
-
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/mtv90.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/10-MUSIC/MTV%20Live%20HD-FirstMedia-Chl-358.jpg" group-title="Musik",MTV Live
-
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/mtvlive.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="Musik",Music TV
-
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/musictv.m3u8
-
-#EXTINF:-1 group-title="Musik",MC Pop Hits
-
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=991601
-
-#EXTINF:-1 group-title="Musik",MC Romances
-
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=991595
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="Musik",Prambors
-
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/prambors.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Festival%20HD-FirstMedia-Chl-344.jpg" group-title="Musik",Stingray Festival
-
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingrayfestival.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Djazz%20HD-FirstMedia-Chl-334.jpg" group-title="Musik",Stingray Jazz
-
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingrayjazz.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Now4K%20HD-FM-Chl-345.jpg" group-title="Musik",Stingray Now
-
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingraynow.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Olah Raga",Astro Sport
 
