@@ -243,6 +243,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hitmovie.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/9-MOVIES/hits-movies-325.jpg" group-title="Film",SCM
+http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/IMC%20SD-FirstMedia-Chl-80.jpg" group-title="Film",IMC
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/imc.m3u8
