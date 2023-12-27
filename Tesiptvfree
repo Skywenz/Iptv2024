@@ -183,11 +183,11 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/ccm.m3u8
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/celestialmovies.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="Film",CinemaWorld
+#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/CW.png" group-title="Film",CinemaWorld
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemaworld.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Film",Cinemax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uB76Ft0.png" group-title="Film",Cinemax
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemax.m3u8
 
