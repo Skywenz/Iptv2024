@@ -175,7 +175,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/wion.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="Film",Celestial Classic Movie
+#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/ccm.png" group-title="Film",Celestial Classic Movie
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/ccm.m3u8
 
