@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/CartoonitoHD-FirstMedia-Chl-372.png" group-title="Anak",Cartoonito
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPrbaq3rkDhLj5AiymK3Q12lGO0NDi-kpWrg&usqp=CAU" group-title="Anak",Tom Jerry
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/29041
 
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/CartoonitoHD-FirstMedia-Chl-372.png" group-title="Anak",Cartoonito
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonito.m3u8
 
 
