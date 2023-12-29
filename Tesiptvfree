@@ -635,6 +635,10 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/fightsports.m3u8
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/golf.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/ufc-logo-25A796E80A-seeklogo.com.png" group-title="Olah Raga",UFC FIGHT
+http://muka03.wanicelife.com:8880/29us05073n01/evgf4g554/31050
+
+
 #EXTINF:-1 group-title="Olah Raga",Motorvision TV
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/motorvisiontv.m3u8
