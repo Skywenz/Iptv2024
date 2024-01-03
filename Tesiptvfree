@@ -1,5 +1,85 @@
 #EXTM3U
 
+------sport-----
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 1 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="SPORTS HD",TNT SPORT 1 UK
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/468
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 2 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="SPORTS HD",TNT SPORT 2 UK
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/469
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 3 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="SPORTS HD",TNT SPORT 3 UK
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/470
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 4 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="SPORTS HD",TNT SPORT 4 UK
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/471
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 1" tvg-logo="https://i.ibb.co/nwXc6WS/SONYSPORTSTEN1.png" group-title="SPORTS HD",SONY SPORTS 1
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/480
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 2" tvg-logo="" group-title="SPORTS HD",SONY SPORTS 2
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/481
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 3" tvg-logo="https://i.ibb.co/ZXYFKTc/SONYSPORTSTEN3.png" group-title="SPORTS HD",SONY SPORTS 3
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/482
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 4" tvg-logo="https://i.ibb.co/y86Y0dc/SONYSPORTSTEN4.png" group-title="SPORTS HD",SONY SPORTS 4
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/483
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 5" tvg-logo="https://i.ibb.co/Ms20nNc/SONYSPORTSTEN5.png" group-title="SPORTS HD",SONY SPORTS 5
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/484
+#EXTINF:-1 tvg-id="" tvg-name="BeIn Sport 1 ID" tvg-logo="" group-title="SPORTS HD",BeIn Sport 1 ID
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/485
+#EXTINF:-1 tvg-id="" tvg-name="BeIn Sport 3 ID" tvg-logo="" group-title="SPORTS HD",BeIn Sport 3 ID
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/486
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV Asia" tvg-logo="" group-title="SPORTS HD",SPOTV Asia
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/487
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2 Asia" tvg-logo="" group-title="SPORTS HD",SPOTV 2 Asia
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/488
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Eleven 5" tvg-logo="" group-title="SPORTS HD",Dazn Eleven 5
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/489
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Eleven 6" tvg-logo="" group-title="SPORTS HD",Dazn Eleven 6
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/490
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="" group-title="SPORTS HD",DAZN F1
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/491
+#EXTINF:-1 tvg-id="" tvg-name=" DAZN LA LIGA" tvg-logo="" group-title="SPORTS HD", DAZN LA LIGA
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/492
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Unbeaten" tvg-logo="" group-title="SPORTS HD",DAZN Unbeaten
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/493
+#EXTINF:-1 tvg-id="" tvg-name="Play Sports 1" tvg-logo="" group-title="SPORTS HD",Play Sports 1
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/494
+#EXTINF:-1 tvg-id="" tvg-name="Play Sports 2" tvg-logo="" group-title="SPORTS HD",Play Sports 2
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/495
+#EXTINF:-1 tvg-id="" tvg-name="Play Sports 3" tvg-logo="" group-title="SPORTS HD",Play Sports 3
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/496
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 23" tvg-logo="" group-title="SPORTS HD",Sky Sport 23
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/498
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="" group-title="EPL EVENT",LIVE 1
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/499
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 2" tvg-logo="" group-title="EPL EVENT",LIVE 2
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/500
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Events" tvg-logo="" group-title="SPORTS HD",Sky Sports Main Events
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/501
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix" tvg-logo="" group-title="SPORTS HD",Sky Sports Mix
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/502
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier" tvg-logo="" group-title="SPORTS HD",Sky Sports Premier
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/503
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football" tvg-logo="" group-title="SPORTS HD",Sky Sports Football
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/504
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="" group-title="SPORTS HD",Sky Sports F1
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/505
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="SPORTS HD",Sky Sports Cricket
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/506
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf" tvg-logo="" group-title="SPORTS HD",Sky Sport Golf
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/507
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Eleven 1" tvg-logo="" group-title="SPORTS HD",Dazn Eleven 1
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/508
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Eleven 2" tvg-logo="" group-title="SPORTS HD",Dazn Eleven 2
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/509
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Eleven 3" tvg-logo="" group-title="SPORTS HD",Dazn Eleven 3
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/510
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Eleven 4" tvg-logo="" group-title="SPORTS HD",Dazn Eleven 4
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/511
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sports 1" tvg-logo="" group-title="SPORTS HD",RMC Sports 1
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/512
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sports 2" tvg-logo="" group-title="SPORTS HD",RMC Sports 2
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/513
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGP" tvg-logo="" group-title="SPORTS HD",Sky Sport MotoGP
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/593
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPrbaq3rkDhLj5AiymK3Q12lGO0NDi-kpWrg&usqp=CAU" group-title="Anak",Tom Jerry
 http://kmkus.wanicelife.com:8880/48msk050004/62869843/29041
 
@@ -170,6 +250,19 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/voa.m3u8
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503432_tvchannels_v1.jpg" group-title="Berita & Bisnis",Wion
 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/wion.m3u8
+
+-------------Film-----------
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Film",HBO HD
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/1
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS HD" tvg-logo="https://logo.iptveditor.com/hbohits.png" group-title="Film",HBO HITS HD
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/2
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="Film",HBO SIGNATURE HD
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/3
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="Film",HBO FAMILY HD
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/4
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="Film",CINEMAX HD
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/5
 
 #EXTINF:-1 group-title="Film" tvg-id="bioskopindonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
