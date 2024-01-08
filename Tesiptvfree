@@ -2,7 +2,10 @@
 
 ------sport-----
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2py0xh_ma-iI6yOunFc3_-VsUv1RJTDnXw&usqp=CAU" group-title="Olah Raga" Tennis HD
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/92d78c43077057.Y3JvcCw3MzksNTc4LDU2LDA.jpeg" group-title="Olah Raga",Super Tennis HD
+http://kmkus.wanicelife.com:8880/48msk050004/62869843/28467
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2py0xh_ma-iI6yOunFc3_-VsUv1RJTDnXw&usqp=CAU" group-title="Olah Raga",Tennis HD
 http://kmkus.wanicelife.com:8880/48msk050004/62869843/3082
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/CartoonitoHD-FirstMedia-Chl-372.png" group-title="Anak",Cartoonito
