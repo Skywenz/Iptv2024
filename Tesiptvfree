@@ -1150,7 +1150,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="TV Nasional",Indosiar
 
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1706356866~acl=/vp9/14798_stream.mpd!/vp9/14798/*!/vp9/*/14798_stream.mpd!/vp9/*/14798/*~hmac=447776f9197e2d05185b767d7be140a2390b85cdc38bd98bfd775c8bc9671c56/vp9/14798_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Kompas%20TV%20SD-FirstMedia-Chl-15.jpg" group-title="TV Nasional",Kompas TV
 
